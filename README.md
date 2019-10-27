@@ -36,13 +36,13 @@ and copy the two files `.po` and `.mo` for each language.
 Quick hack to create the base `template.pot` file automatically:
 
 - copy your theme inside the directory `modules`;
-- then run this command from the Omeka root (some packages like xgettext should
+- then run this command from the Omeka root (some packages like `xgettext` should
   be installed first: see Omeka documentation):
 ```sh
 # Create main template.
 gulp i18n:module:template --module-name=my-theme
 
-# Run after translations in your editor or your application:
+# If your editor can’t compile .po files, you can run this command after translating:
 gulp i18n:module:compile --module-name=my-theme
 ```
 - then copy all the files inside `language` into the directory `language` of

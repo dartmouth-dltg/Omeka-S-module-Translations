@@ -14,6 +14,7 @@ or any other compliant software or online service.
 
 This is an upgrade of the [plugin Translations] for [Omeka Classic].
 
+2023-02-05 (DLTG Comment): Forked from https://gitlab.com/Daniel-KM/Omeka-S-module-Translations for local use.
 
 Installation
 ------------

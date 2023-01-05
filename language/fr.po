@@ -3,101 +3,99 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-13 00:00+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2023-01-05 09:34-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. Property label for Dublin Core:abstract
 msgid "Content Warning"
-msgstr ""
+msgstr "Avertissement de contenu"
 
 #. Property label for Dublin Core:bibliographicCitation
 msgid "Citation Information"
-msgstr ""
+msgstr "Informations sur la citation"
 
 #. Property label for Dublin Core:date
 msgid "Timeline Date"
-msgstr ""
+msgstr "Date de la chronologie"
 
 #. Property label for Dublin Core:description
 msgid "Caption"
-msgstr ""
-
-msgid "About"
-msgstr
+msgstr "Légende"
 
 #. Property label for Dublin Core:identifier
 msgid "Item Number"
-msgstr ""
+msgstr "Numéro d'article"
 
 #. Property label for Dublin Core:isPartOf
 msgid "Containing Publication"
-msgstr ""
+msgstr "Contenant la publication"
 
 #. Property label for Dublin Core:isReferencedBy
 msgid "Dartmouth Library Search"
-msgstr ""
+msgstr "Recherche dans la bibliothèque de Dartmouth"
 
 #. Property label for Dublin Core:isVersionOf
 msgid "Available Online At"
-msgstr ""
+msgstr "Disponible en ligne sur"
 
 #. Property label for Dublin Core:requires
 msgid "Case Number"
-msgstr ""
+msgstr "Numéro de dossier"
 
 #. Property label for Dublin Core:spatial
 msgid "Place"
-msgstr ""
+msgstr "Le lieu"
 
 #. Property label for Dublin Core:title
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. Property label for Bibliographic Ontology:content
 msgid "Note or Transcription"
-msgstr ""
+msgstr "Note ou transcription"
 
 #. Property label for Bibliographic Ontology:interviewee
 msgid "Interviewee"
-msgstr ""
+msgstr "Interviewé"
 
 #. Property label for Bibliographic Ontology:interviewer
 msgid "Interviewer"
-msgstr ""
+msgstr "Interviewer"
 
 #. Property label for Bibliographic Ontology:uri
 msgid "Filename"
-msgstr ""
+msgstr "Nom de fichier"
 
 #. Property label for Friend of a Friend:based_near
 msgid "Place of Publication"
-msgstr ""
+msgstr "Lieu de publication"
 
 #. Property label for Friend of a Friend:member
 msgid "In Residence"
-msgstr ""
+msgstr "En résidence"
 
 msgid "Interviewee's Dartmouth Affiliation"
-msgstr ""
+msgstr "Affiliation à Dartmouth de l’interviewé"
 
 #. Property label for Friend of a Friend:membershipClass
 msgid "Dartmouth Affiliation"
-msgstr ""
+msgstr "Affiliation à Dartmouth"
 
 msgid "Interviewer's Dartmouth Affiliation"
-msgstr ""
+msgstr "Affiliation de l’intervieweur à Dartmouth"
 
 #. Property label for Friend of a Friend:pastProject
 msgid "Research Project(s)"
-msgstr ""
+msgstr "Projet(s) de recherche"
